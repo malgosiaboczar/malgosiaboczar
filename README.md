@@ -1,4 +1,12 @@
-## Hi there 👋 ...
+## 👋 Welcome!<br>
+### If there's a bug, I'll find it. If not… I'll double-check;)
+
+Once an e-commerce admin, now a software tester on a mission! 🚀 <br>
+I’m always eager to grow and make sure every detail is just right. Along my journey, I’ve mastered exploratory testing, web app testing, writing test cases, reporting bugs and creating test reports.
+I hold an [**ISTQB Foundation Level certificate**](https://drive.google.com/file/d/1GCh3_OaZgRL9pRCKyV_WIj58zvjf68pV/view?usp=sharing), which helps me test the right way—by the book, but with a tester’s intuition.<br><br>
+I know my way around SQL, Chrome DevTools, Jira+Confluence, Postman and even some Salesforce & HTML/CSS basics. Plus, I get how Scrum and Agile keep projects rolling smoothly.<br>
+I'm also passionate about digital accessibility and making technology usable for everyone. 
+Curious about my work? Check out my [manual_tester_portfolio](https://github.com/malgosiaboczar/manual_tester_portfolio)!
 <!--
 **malgosiaboczar/malgosiaboczar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
